@@ -1,4 +1,3 @@
-
 RF-DETR 模型 TensorRT 部署项目说明
 本项目基于 RF-DETR 模型，完成了从数据准备、模型训练、ONNX 导出到 TensorRT 推理部署 的完整流程。
 
